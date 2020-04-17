@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\algorithms",
+    "\\src\\PathfindingVisualizer",
+    "\\src\\PathfindingVisualizer\\Node"
+  ],
+  "SelectedNode": "\\src\\algorithms\\dijkstra.js",
+  "PreviewInSolutionExplorer": false
+}
